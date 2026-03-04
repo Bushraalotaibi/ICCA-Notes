@@ -62,10 +62,7 @@ The **management plane** is how you control the cloud:
 | Data & access control | **You** | **You** | **You (mostly)** |
 
 <img width="1638" height="1046" alt="image" src="https://github.com/user-attachments/assets/2054e323-ba9a-44be-93c1-4d6c480a2ea8" />
-
-
 > **Rule of thumb:** Moving from **IaaS → SaaS** increases convenience, but reduces control.
-
 ---
 
 ## How Cloud Services Are Accessed
@@ -94,11 +91,10 @@ The **management plane** is how you control the cloud:
 | **CapEx** | Upfront spending | Buying servers + licenses |
 | **OpEx** | Ongoing spending | Monthly cloud usage bills |
 
+
+<img width="957" height="638" alt="image" src="https://github.com/user-attachments/assets/9408d7bf-28a7-4a76-96cd-0490cfc54a1c" />
 > Cloud is not always ideal (e.g., strict data residency, legacy constraints, or heavy existing investments).
-
 ---
-<img width="957" height="638" alt="image" src="https://github.com/user-attachments/assets/44b35766-2414-4d8e-805b-0c6237089a6d" />
-
 
 ## Cloud Management Tools 
 
