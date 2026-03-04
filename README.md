@@ -1,15 +1,32 @@
-# ICCA-Notes
+# ICCA Notes
+
 <p align="center">
-<img src="Images/ICCA-badge.png">
+  <img src="Images/ICCA-badge.png" alt="ICCA Badge" width="220">
 </p>
 
-## ☁️ ICCA — Cloud Foundations & Management Learning Path
-- Introduces foundational cloud concepts and cloud management basics
-- Covers skills applicable across major cloud providers (AWS, Azure, Google Cloud)
-- Prepares learners for the ICCA exam and certification
+A practical, beginner-friendly reference for the **INE Certified Cloud Associate (ICCA)** certification.  
+This repository helps you understand what ICCA is, how the exam works (including the hands-on lab), and provides structured notes aligned with the learning path sections.
+
+> **Disclaimer:** These are personal study notes and are **not** official INE materials.
+
+---
+
+## What is ICCA?
+
+**ICCA (INE Certified Cloud Associate)** validates foundational knowledge of **cloud concepts** and **cloud management basics**.  
+It focuses on practical understanding across major cloud platforms (AWS, Azure, Google Cloud) and is designed for learners who want a solid entry point into cloud and cloud-related roles (e.g., IT, SOC, DevOps, Cloud Security).
+
+---
+
+## ICCA Learning Path Overview
+
+The ICCA learning path (Cloud Foundations & Management) covers:
+- Core cloud concepts and terminology
+- Cloud management tools and operational practices
+- Identity, security, and compliance fundamentals
 
 ### Course Overview
-- Instructor: Tracy Wallace
+- Instructor: **Tracy Wallace**
 
 | Item | Value |
 |------|-------|
@@ -21,13 +38,24 @@
 | Quizzes | 23 |
 | Labs | 9 |
 
+---
 
-### Sections
-- **Cloud Foundations**
-- **Cloud Management Concepts**
-- **Fundamentals of Cloud Identity, Security, and Compliance**
+## Repository Structure (Notes by Section)
 
-## ICCA Exam (Hands-on Lab)
+This repo is organized into **three main folders**, matching the learning path sections:
+
+- 📁 **[cloud-foundations](cloud-foundations/README.md)**  
+  Core cloud concepts, service models, deployment models, and fundamentals.
+
+- 📁 **[cloud-management](cloud-management/README.md)**  
+  Cloud management concepts, tooling (Console/CLI/API), operations, monitoring, and automation basics.
+
+- 📁 **[cloud-security](cloud-security/README.md)**  
+  Identity & access management (IAM), security fundamentals, and compliance concepts.
+
+---
+
+## ICCA Exam Overview (Hands-on Lab)
 
 | Item | Details |
 |------|---------|
@@ -39,7 +67,16 @@
 | Certification validity | 3 years |
 | Passing criteria | Overall score ≥ 70% + meet domain minimum requirements + pass at least 50% of all lab tasks |
 
-### Before the Exam (INE Recommendations)
+### High-level Objectives
+- Explain cloud management concepts
+- Describe cloud benefits and data protection concepts/tools
+- Explain regulatory compliance, infrastructure protection, and IAM concepts
+- Differentiate **PaaS** vs **IaaS**
+- Identify monitoring/automation features and common identity risks
+
+---
+
+## Before the Exam (INE Recommendations)
 
 | Recommendation | Notes |
 |---|---|
@@ -50,9 +87,10 @@
 | Verify your INE account name | This name will appear on your certificate; contact support@ine.com to change it if needed |
 | Choose a good environment | Quiet place + stable internet + no interruptions for the full exam duration |
 
-### High-level Objectives
-- Explain cloud management concepts
-- Describe cloud benefits and data protection concepts/tools
-- Explain regulatory compliance, infrastructure protection, and IAM concepts
-- Differentiate **PaaS** vs **IaaS**
-- Identify monitoring/automation features and common identity risks
+---
+
+## How to Use This Repo
+1. Start with **cloud-foundations** to build the base.
+2. Move to **cloud-management** to understand tools and operations.
+3. Finish with **cloud-security** for IAM, security, and compliance.
+4. Re-check the **Exam Overview** section before your exam day.
