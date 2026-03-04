@@ -95,7 +95,8 @@ The **management plane** is how you control the cloud:
 
 
 <img width="957" height="638" alt="image" src="https://github.com/user-attachments/assets/9408d7bf-28a7-4a76-96cd-0490cfc54a1c" />
-Cloud is not always ideal (e.g., strict data residency, legacy constraints, or heavy existing investments).
+
+> Cloud is not always ideal (e.g., strict data residency, legacy constraints, or heavy existing investments).
 
 ---
 
