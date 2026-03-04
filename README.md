@@ -28,15 +28,27 @@
 - **Fundamentals of Cloud Identity, Security, and Compliance**
 
 ## ICCA Exam (Hands-on Lab)
-- Time limit: **90 minutes**
-- Questions: **46**
-- Hands-on Lab Objectives: **4**
-- Certification validity: 3 years
-- Format: **Open-book**, in-browser hands-on lab
-- Passing criteria (as shown in the exam platform):
-  - Overall score **≥ 70%**
-  - Meet **domain minimum requirements**
-  - Pass at least **50% of all lab tasks**
+
+| Item | Details |
+|------|---------|
+| Difficulty | novice |
+| Time limit | 1:30:00 (90 minutes) |
+| Questions | 46 |
+| Lab objectives | 4 |
+| Format | Open-book, in-browser hands-on cloud lab |
+| Certification validity | 3 years |
+| Passing criteria | Overall score ≥ 70% + meet domain minimum requirements + pass at least 50% of all lab tasks |
+
+### Before the Exam (INE Recommendations)
+
+| Recommendation | Notes |
+|---|---|
+| Complete the ICCA course content | Watch all Cloud Foundations & Management (ICCA) materials |
+| Watch the lab introduction video | To understand the lab layout |
+| Review exam objectives & grading | Check domains and grading criteria on INE website |
+| Use Google Chrome | Turn extensions off for a smoother lab experience |
+| Verify your INE account name | This name will appear on your certificate; contact support@ine.com to change it if needed |
+| Choose a good environment | Quiet place + stable internet + no interruptions for the full exam duration |
 
 ### High-level Objectives
 - Explain cloud management concepts
