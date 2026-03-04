@@ -53,8 +53,6 @@
 
 <img width="800" height="681" alt="image" src="https://github.com/user-attachments/assets/299771c8-7295-4d93-9930-4030ebf0051b" />
 
-> Many lab tasks are: **use control plane** to build something that runs in the **data plane**.
-
 ---
 
 ##  Resource Lifecycle 
