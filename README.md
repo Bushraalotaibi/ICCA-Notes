@@ -1,5 +1,7 @@
 # ICCA-Notes
-![ICCA - © INE](Images/ICCA-badge.png)
+<p align="center">
+<img width="60%" src="Images/ICCA-badge.png">
+</p>
 
 ## ☁️ ICCA — Cloud Foundations & Management Learning Path
 - Introduces foundational cloud concepts and cloud management basics
