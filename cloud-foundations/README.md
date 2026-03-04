@@ -62,7 +62,7 @@ The **management plane** is how you control the cloud:
 | Data & access control | **You** | **You** | **You (mostly)** |
 
 <img width="1638" height="1046" alt="image" src="https://github.com/user-attachments/assets/2054e323-ba9a-44be-93c1-4d6c480a2ea8" />
-> **Rule of thumb:** Moving from **IaaS → SaaS** increases convenience, but reduces control.
+> Rule of thumb: Moving from IaaS → SaaS increases convenience, but reduces control.
 
 ---
 
