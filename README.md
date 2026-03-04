@@ -1,10 +1,6 @@
 # ICCA-Notes
 
 ---
-description: >-
-  INE Certified Cloud Associate (ICCA) — Notes, Review, and Lab Checklist
----
-
 ![ICCA - © INE](/ICCA-badge.png)
 
 ## ☁️ ICCA — Cloud Foundations & Management Learning Path
