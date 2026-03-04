@@ -16,11 +16,11 @@
 | :---------------------: |
 |  VIDEO DURATION: 8h 5m  |
 | ACTIVITIES DURATION: 8h 20m|
-|    Virtual Machines     |
-|    Management Plane     |
-|     Virtualization      |
-| Physical Infrastructure |
-|    Physical Facility    |
+|      SECTIONS: 4        |
+|       COURSES: 3        |
+|       VIDEOS: 35        |
+|       QUIZZES: 23       |
+|        LABS: 9          |
 
 
 ### Sections
