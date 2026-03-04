@@ -30,6 +30,8 @@ ICCA teaches vendor-neutral cloud fundamentals while using examples across the t
 
 > The focus is on transferable cloud concepts across providers, not deep specialization in one platform.
 
+<img width="1064" height="620" alt="image" src="https://github.com/user-attachments/assets/002a91ac-07c5-4e1c-a873-e3670545997e" />
+
 ---
 
 ## ICCA Learning Path Overview
