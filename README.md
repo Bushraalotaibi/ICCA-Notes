@@ -11,6 +11,18 @@
 - Activities: 2 sections, 3 courses, 33 videos, 23 quizzes, 9 labs
 - Instructor: Tracy Wallace
 
+  
+|      Cloud Overview     |
+| :---------------------: |
+|  VIDEO DURATION: 8h 5m  |
+| ACTIVITIES DURATION: 8h 20m|
+|    Virtual Machines     |
+|    Management Plane     |
+|     Virtualization      |
+| Physical Infrastructure |
+|    Physical Facility    |
+
+
 ### Sections
 - **Cloud Foundations**
 - **Cloud Management Concepts**
