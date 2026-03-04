@@ -11,13 +11,15 @@
 
 |      Cloud Overview     |
 | :---------------------: |
-|  VIDEO DURATION: 8h 5m  |
-| ACTIVITIES DURATION: 8h 20m|
-|      SECTIONS: 4        |
-|       COURSES: 3        |
-|       VIDEOS: 35        |
-|       QUIZZES: 23       |
-|        LABS: 9          |
+| Item | Value |
+|------|-------|
+| Video duration | 8h 5m |
+| Activities duration | 8h 20m |
+| Sections | 4 |
+| Courses | 3 |
+| Videos | 35 |
+| Quizzes | 23 |
+| Labs | 9 |
 
 
 ### Sections
