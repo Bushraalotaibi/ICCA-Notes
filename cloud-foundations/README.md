@@ -23,7 +23,3 @@ This section covers the core cloud fundamentals you need for the ICCA exam and f
 - **PaaS:** provider manages runtime/platform; you deploy code
 - **SaaS:** provider manages everything; you just use the app
 
-## Files (optional)
-- `notes.md` — detailed notes
-- `cheatsheet.md` — quick definitions & comparisons
-- `practice.md` — mini questions and scenarios
