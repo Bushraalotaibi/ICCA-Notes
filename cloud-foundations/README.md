@@ -1,4 +1,4 @@
-# 📒 1) Cloud Foundations
+#  1) Cloud Foundations
 
 > **Goal:** Understand what cloud is, how it differs from on-prem, and how service models (IaaS/PaaS/SaaS) change responsibility.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## On-Prem vs Cloud (What changes?)
+## On-Prem vs Cloud 
 
 | Aspect | On-Premises | Cloud |
 |---|---|---|
@@ -31,10 +31,10 @@
 
 ---
 
-## Cloud Architecture (High-Level)
+## Cloud Architecture 
 Cloud environments mirror on-prem layers, but add a critical layer:
 
-### Management Plane (Must-Know)
+### Management Plane 
 The **management plane** is how you control the cloud:
 - Provision resources
 - Monitor health and usage
@@ -51,7 +51,7 @@ The **management plane** is how you control the cloud:
 - **PaaS:** provider gives platform/runtime; you deploy code
 - **SaaS:** provider gives full application; you configure and use it
 
-### Responsibility Comparison (Exam-Friendly)
+### Responsibility Comparison
 | Layer / Responsibility | IaaS | PaaS | SaaS |
 |---|---:|---:|---:|
 | Physical data center, hardware | Provider | Provider | Provider |
@@ -76,7 +76,7 @@ The **management plane** is how you control the cloud:
 
 ---
 
-## Why Cloud? (Benefits)
+## Why Cloud?
 | Benefit | What it means (simple) |
 |---|---|
 | Scalability | Add/remove resources quickly |
@@ -88,7 +88,7 @@ The **management plane** is how you control the cloud:
 
 ---
 
-## CapEx vs OpEx (Quick)
+## CapEx vs OpEx
 | Term | Meaning | Typical example |
 |---|---|---|
 | **CapEx** | Upfront spending | Buying servers + licenses |
@@ -98,7 +98,7 @@ The **management plane** is how you control the cloud:
 
 ---
 
-## 🛠 Cloud Management Tools (Very Common in Exams)
+## Cloud Management Tools 
 
 | Tool | Best for | Example actions |
 |---|---|---|
@@ -111,7 +111,7 @@ The **management plane** is how you control the cloud:
 
 ---
 
-## Shared Responsibility Model (Must-Know)
+## Shared Responsibility Model
 The provider secures **the cloud** (facilities, hardware, core infrastructure).  
 You secure **what you put in the cloud** (IAM, configs, data, workloads).
 
@@ -121,7 +121,7 @@ You secure **what you put in the cloud** (IAM, configs, data, workloads).
 
 ---
 
-## Quick Check (Mini Self-Test)
+## Quick Check
 - Can you explain **IaaS vs PaaS vs SaaS** in one sentence each?
 - Do you know what **management plane** means and what it controls?
 - Can you describe what *you* are responsible for in the shared responsibility model?
