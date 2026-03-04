@@ -5,7 +5,7 @@
 </p>
 
 A practical, beginner-friendly reference for the **INE Certified Cloud Associate (ICCA)** certification.  
-This repository helps you understand what ICCA is, how the exam works (including the hands-on lab), and provides structured notes aligned with the learning path sections.
+This repository explains what ICCA is, how the exam works (including the hands-on lab), and provides structured notes aligned with the learning path sections.
 
 > **Disclaimer:** These are personal study notes and are **not** official INE materials.
 
@@ -14,7 +14,21 @@ This repository helps you understand what ICCA is, how the exam works (including
 ## What is ICCA?
 
 **ICCA (INE Certified Cloud Associate)** validates foundational knowledge of **cloud concepts** and **cloud management basics**.  
-It focuses on practical understanding across major cloud platforms (AWS, Azure, Google Cloud) and is designed for learners who want a solid entry point into cloud and cloud-related roles (e.g., IT, SOC, DevOps, Cloud Security).
+It is designed as an entry point for learners targeting cloud and cloud-adjacent roles (e.g., IT, SOC, DevOps, Cloud Security).
+
+---
+
+## Covered Cloud Platforms
+
+ICCA teaches vendor-neutral cloud fundamentals while using examples across the three major cloud platforms:
+
+| Platform | Examples you’ll see/practice (high-level) |
+|---|---|
+| **Amazon Web Services (AWS)** | Console and core service concepts (compute, storage, IAM, networking) |
+| **Microsoft Azure** | Azure Portal concepts and cloud management basics |
+| **Google Cloud Platform (GCP)** | GCP Console concepts and cloud services fundamentals |
+
+> The focus is on transferable cloud concepts across providers, not deep specialization in one platform.
 
 ---
 
