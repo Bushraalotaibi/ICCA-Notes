@@ -85,6 +85,8 @@ The **management plane** is how you control the cloud:
 | Backup & DR | Easier automation and recovery options |
 | Security tooling | Strong native security features (still needs correct setup) |
 
+<img width="598" height="637" alt="image" src="https://github.com/user-attachments/assets/a26509b5-ee81-43cd-ab35-c57c765ddea1" />
+
 ---
 
 ## CapEx vs OpEx
@@ -120,12 +122,5 @@ You secure **what you put in the cloud** (IAM, configs, data, workloads).
 ### Quick Example
 - Provider: physical servers, data center security
 - You: IAM permissions, storage access policies, encryption choices, exposed keys, misconfigurations
-
----
-
-## Quick Check
-- Can you explain **IaaS vs PaaS vs SaaS** in one sentence each?
-- Do you know what **management plane** means and what it controls?
-- Can you describe what *you* are responsible for in the shared responsibility model?
 
 ---
