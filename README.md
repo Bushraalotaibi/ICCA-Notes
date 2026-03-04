@@ -1,6 +1,6 @@
 # ICCA-Notes
 <p align="center">
-<img width="60%" src="Images/ICCA-badge.png">
+<img src="Images/ICCA-badge.png">
 </p>
 
 ## ☁️ ICCA — Cloud Foundations & Management Learning Path
