@@ -1,4 +1,4 @@
-#  2) Cloud Management Concepts (ICCA)
+#  2) Cloud Management Concepts
 
 > **Goal:** Understand how cloud resources are managed in practice (control vs data plane), how responsibilities are shared, and how monitoring + IAM fit into day-to-day operations.
 
@@ -17,7 +17,7 @@
 
 ---
 
-##  Shared Responsibility (Management View)
+##  Shared Responsibility 
 
 | Area | Cloud Provider (CSP) | Customer |
 |---|---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-##  Control Plane vs Data Plane (Must Know)
+##  Control Plane vs Data Plane
 
 | Plane | What it is | Examples | Typical tasks |
 |---|---|---|---|
@@ -55,7 +55,7 @@
 
 ---
 
-##  Resource Lifecycle (Practical Flow)
+##  Resource Lifecycle 
 
 | Step | What you do | What to verify |
 |---|---|---|
@@ -65,11 +65,10 @@
 | Optimize | Rightsize, cost controls | Budgets/alerts, tags |
 | Deprovision | Delete resources | Nothing left running |
 
-> **Lab habit:** Create → Verify → Delete (always).
 
 ---
 
-##  Monitoring & Alerts (Core Idea)
+##  Monitoring & Alerts 
 Cloud monitoring means observing and analyzing resource and application health using metrics, logs, and alerts.
 
 | What to monitor | Why it matters |
@@ -79,7 +78,7 @@ Cloud monitoring means observing and analyzing resource and application health u
 | Security events | Identify suspicious access |
 | Cost/spend | Prevent billing surprises |
 
-### Common Native Monitoring Tools (Examples)
+### Common Native Monitoring Tools
 | Provider | Monitoring tool |
 |---|---|
 | AWS | CloudWatch |
@@ -88,7 +87,7 @@ Cloud monitoring means observing and analyzing resource and application health u
 
 ---
 
-##  Change Management (Cloud Operations)
+##  Change Management 
 Change management is controlling updates to cloud resources safely:
 - Plan → test → deploy → document → rollback strategy  
 - Track who changed what (auditability)
@@ -101,10 +100,10 @@ Change management is controlling updates to cloud resources safely:
 
 ---
 
-##  Identity & Access Management (IAM) — High-Yield
+##  Identity & Access Management (IAM) 
 IAM controls **who** can access **what** and **under which conditions**.
 
-### Key Objects (Across Providers)
+### Key Objects 
 | Concept | Meaning |
 |---|---|
 | User | Human identity |
@@ -113,17 +112,10 @@ IAM controls **who** can access **what** and **under which conditions**.
 | Policy | Document defining allowed/denied actions |
 | Federation | Use external identity provider (SSO) to access cloud |
 
-### Common Identity Risks (Exam & Real Life)
+### Common Identity Risks
 - Over-permissive policies (e.g., admin access everywhere)
 - Exposed access keys / credentials
 - No MFA on privileged accounts
 - Policies applied to the wrong principal (user vs role)
-
----
-
-##  Quick Check (Mini Self-Test)
-- Can you explain **control plane vs data plane** in one sentence?
-- Do you know what the customer is *always* responsible for? (**IAM + configs + data**)  
-- Can you choose the best tool for a task? (Console vs CLI vs API)
 
 ---
