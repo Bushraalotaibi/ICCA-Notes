@@ -20,7 +20,7 @@
 - Time limit: **90 minutes**
 - Questions: **46**
 - Hands-on Lab Objectives: **4**
-- Certification validity: **3 years** :contentReference[oaicite:1]{index=1}
+- Certification validity: 3 years
 - Format: **Open-book**, in-browser hands-on lab
 - Passing criteria (as shown in the exam platform):
   - Overall score **≥ 70%**
