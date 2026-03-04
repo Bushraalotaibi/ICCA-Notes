@@ -103,10 +103,3 @@ This repo is organized into **three main folders**, matching the learning path s
 | Verify your INE account name | This name will appear on your certificate; contact support@ine.com to change it if needed |
 | Choose a good environment | Quiet place + stable internet + no interruptions for the full exam duration |
 
----
-
-## How to Use This Repo
-1. Start with **cloud-foundations** to build the base.
-2. Move to **cloud-management** to understand tools and operations.
-3. Finish with **cloud-security** for IAM, security, and compliance.
-4. Re-check the **Exam Overview** section before your exam day.
