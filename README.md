@@ -7,11 +7,8 @@
 - Prepares learners for the ICCA exam and certification
 
 ### Course Overview
-- ~17 hours (may vary as INE updates the learning path)
-- Activities: 2 sections, 3 courses, 33 videos, 23 quizzes, 9 labs
 - Instructor: Tracy Wallace
 
-  
 |      Cloud Overview     |
 | :---------------------: |
 |  VIDEO DURATION: 8h 5m  |
