@@ -30,7 +30,3 @@ This section focuses on how cloud environments are managed in practice: tools, o
 When you create anything in labs, follow:
 **Create → Verify → Document (if needed) → Delete**
 
-## Files (optional)
-- `notes.md` — management concepts notes
-- `lab-checklist.md` — step-by-step lab playbook
-- `exam-strategy.md` — time management + open-book tips
