@@ -41,6 +41,9 @@ Cloud environments follow similar layers as on-prem, but add a key concept:
 - Provider delivers a complete application over the internet
 - You manage: usage, access, and app-level settings
 
+<img width="1638" height="1046" alt="image" src="https://github.com/user-attachments/assets/3a91d8a1-8790-4506-9dd4-bd061d533d27" />
+
+
 > **Rule of thumb:** moving from **IaaS → SaaS** increases ease of administration but reduces control.
 
 ---
