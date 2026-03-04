@@ -18,11 +18,6 @@
 - **Cloud Management Concepts**
 - **Fundamentals of Cloud Identity, Security, and Compliance**
 
-### Useful Links
-- INE Learning Paths
-- ICCA Certification / Exam Info
-- INE Live (ICCA overview + lab demo)
-
 ## ICCA Exam (Hands-on Lab)
 - Time limit: **90 minutes**
 - Questions: **46**
