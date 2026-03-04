@@ -31,7 +31,8 @@
 | Data security (classification, access, encryption choices) | ❌ | ✅ |
 | Application security | ❌ | ✅ |
 
-![AWS Shared Responsibility Model](../Images/shared-responsibility-aws.png)
+<img width="1148" height="720" alt="image" src="https://github.com/user-attachments/assets/b86a389d-3ae7-425b-87a0-d3ccb36ee7e5" />
+
 ---
 
 ##  Defense in Depth 
