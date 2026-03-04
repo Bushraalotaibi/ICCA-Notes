@@ -1,5 +1,4 @@
 # ICCA-Notes
-
 ---
 ![ICCA - © INE](/ICCA-badge.png)
 
