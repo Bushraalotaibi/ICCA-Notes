@@ -9,17 +9,15 @@
 ### Course Overview
 - Instructor: Tracy Wallace
 
-|      Cloud Overview     |
-| :---------------------: |
-| Item | Value            |
-|------|-------           |
-| Video duration | 8h 5m  |
+| Item | Value |
+|------|-------|
+| Video duration | 8h 5m |
 | Activities duration | 8h 20m |
-| Sections | 4            |
-| Courses | 3             |
-| Videos | 35             |
-| Quizzes | 23            |
-| Labs | 9                |
+| Sections | 4 |
+| Courses | 3 |
+| Videos | 35 |
+| Quizzes | 23 |
+| Labs | 9 |
 
 
 ### Sections
