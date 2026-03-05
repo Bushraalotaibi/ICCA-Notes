@@ -71,7 +71,7 @@ This repo is organized into **three main folders**, matching the learning path s
 
 ---
 
-## ICCA Exam Overview (Hands-on Lab)
+## ICCA Exam Overview
 
 | Item | Details |
 |------|---------|
