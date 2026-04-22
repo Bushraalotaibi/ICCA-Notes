@@ -5,7 +5,7 @@
 </p>
 
 A practical, beginner-friendly reference for the **INE Certified Cloud Associate (ICCA)** certification.  
-This repository explains what ICCA is, how the exam works (including the hands-on lab), and provides structured notes aligned with the learning path sections.
+This repository explains what ICCA is, how the exam works, and provides structured notes aligned with the learning path sections.
 
 > **Disclaimer:** These are personal study notes and are **not** official INE materials.
 
