@@ -90,16 +90,3 @@ This repo is organized into **three main folders**, matching the learning path s
 - Differentiate **PaaS** vs **IaaS**
 - Identify monitoring/automation features and common identity risks
 
----
-
-## Before the Exam (INE Recommendations)
-
-| Recommendation | Notes |
-|---|---|
-| Complete the ICCA course content | Watch all Cloud Foundations & Management (ICCA) materials |
-| Watch the lab introduction video | To understand the lab layout |
-| Review exam objectives & grading | Check domains and grading criteria on INE website |
-| Use Google Chrome | Turn extensions off for a smoother lab experience |
-| Verify your INE account name | This name will appear on your certificate; contact support@ine.com to change it if needed |
-| Choose a good environment | Quiet place + stable internet + no interruptions for the full exam duration |
-
